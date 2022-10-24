@@ -165,7 +165,7 @@
             <div class="card flex-fill w-100">
                 <div class="card-header">
 
-                    <h5 class="card-title mb-0">Browser Usage</h5>
+                    {{-- <h5 class="card-title mb-0">Browser Usage</h5> --}}
                 </div>
                 <div class="card-body d-flex">
                     <div class="align-self-center w-100">
